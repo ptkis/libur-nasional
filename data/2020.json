@@ -65,6 +65,16 @@
         "type": "joint-holiday"
     },
     {
+        "date": "2020-05-28",
+        "description": "Cuti bersama Hari Raya Idul Fitri",
+        "type": "joint-holiday"
+    },
+    {
+        "date": "2020-05-29",
+        "description": "Cuti bersama Hari Raya Idul Fitri",
+        "type": "joint-holiday"
+    },
+    {
         "date": "2020-06-01",
         "description": "Hari Lahir Pancasila",
         "type": "national-holiday"
@@ -85,9 +95,19 @@
         "type": "national-holiday"
     },
     {
+        "date": "2020-08-21",
+        "description": "Cuti Bersama Tahun Baru Islam 1442 Hijriyah",
+        "type": "joint-holiday"
+    },
+    {
         "date": "2020-10-29",
         "description": "Maulid Nabi Muhammad SAW",
         "type": "national-holiday"
+    },
+    {
+        "date": "2020-10-30",
+        "description": "Cuti Bersama Maulid Nabi Muhammad SAW",
+        "type": "joint-holiday"
     },
     {
         "date": "2020-12-24",
