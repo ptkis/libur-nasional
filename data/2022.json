@@ -1,0 +1,82 @@
+[
+    {
+        "date": "2022-01-01",
+        "description": "Tahun Baru 2022 Masehi",
+        "type": "national-holiday"
+    },
+    {
+        "date": "2022-02-01",
+        "description": "Tahun Baru Imlek 2573 Kongzii",
+        "type": "national-holiday"
+    },
+    {
+        "date": "2022-03-01",
+        "description": "Isra Miraj Nabi Muhammad SAW",
+        "type": "national-holiday"
+    },
+    {
+        "date": "2022-03-03",
+        "description": "Hari Suci Nyepi Tahun Baru Saka 1944",
+        "type": "national-holiday"
+    },
+    {
+        "date": "2022-04-15",
+        "description": "Wafat Isa Al Masih",
+        "type": "national-holiday"
+    },
+    {
+        "date": "2022-05-01",
+        "description": "Hari Buruh Internasional",
+        "type": "national-holiday"
+    },
+    {
+        "date": "2022-05-03",
+        "description": "Hari Raya Idul Fitri 1443 Hijriah",
+        "type": "national-holiday"
+    },
+    {
+        "date": "2022-05-04",
+        "description": "Hari Raya Idul Fitri 1443 Hijriah",
+        "type": "national-holiday"
+    },
+    {
+        "date": "2022-05-16",
+        "description": "Hari Raya Waisak 2566",
+        "type": "national-holiday"
+    },
+    {
+        "date": "2022-05-26",
+        "description": "Kenaikan Isa Al Masih",
+        "type": "national-holiday"
+    },
+    {
+        "date": "2022-06-01",
+        "description": "Hari Lahir Pancasila",
+        "type": "national-holiday"
+    },
+    {
+        "date": "2022-07-10",
+        "description": "Hari Raya Idul Adha 1443 Hijriah",
+        "type": "national-holiday"
+    },
+    {
+        "date": "2022-07-30",
+        "description": "Tahun Baru Islam 1444 Hijriah",
+        "type": "national-holiday"
+    },
+    {
+        "date": "2022-08-17",
+        "description": "Hari Kemerdekaan RI",
+        "type": "national-holiday"
+    },
+    {
+        "date": "2022-10-08",
+        "description": "Maulid Nabi Muhammad SAW",
+        "type": "national-holiday"
+    },
+    {
+        "date": "2022-12-25",
+        "description": "Hari Raya Natal",
+        "type": "national-holiday"
+    }
+]
